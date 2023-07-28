@@ -6,3 +6,4 @@
 | Algorithm | MLP | epochs|
 | --------- |:---:|-------|
 | Accuracy | 80% | 100|
+charts shared in <a href='https://wandb.ai/'>wandb.ai</a>

@@ -25,4 +25,4 @@
 </br>
 
 - inferences shared on wandb.ai:
-  - <a href='https://github.com/SajjadAemmi'>accessories-recognizer</a>
+  - <a href='https://wandb.ai/matin-samvatian/accessories-recognizer/'>accessories-recognizer</a>

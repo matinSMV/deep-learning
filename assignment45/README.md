@@ -15,6 +15,6 @@
 
 </br>
 
-- inference share on <a href='http://wandb.ai'>wandb.ai</a>. 
+- inferences shared on <a href='http://wandb.ai'>wandb.ai</a>. 
 
 </br>

@@ -18,3 +18,5 @@
 - inferences shared on <a href='http://wandb.ai'>wandb.ai</a>. 
 
 </br>
+
+- the bot file is for a telegram bot that detect your image is a sheykh or a normal person.
